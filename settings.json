@@ -1,0 +1,9 @@
+{
+	"access_key": "test-Key",
+	"access_secret": "test-Secret",
+	"root-domain": "mydomain.com",
+	"update-subdomains": [
+		"www",
+		"rdp"
+	]
+}
